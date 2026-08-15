@@ -1,0 +1,6 @@
+{
+  "name": "ElVine | Radical Transparency Fashion",
+  "description": "Timeless, ethically crafted fashion with Radical Transparency in pricing, factory audit conditions, diverse fabric/fit/waistband filters, and 'Forever Wardrobe' recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
